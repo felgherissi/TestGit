@@ -1,1 +1,3 @@
-COMMANDES.txt
+tmp/*
+*.xml
+*.txt
